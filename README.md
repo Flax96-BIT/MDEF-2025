@@ -1,4 +1,4 @@
-# Your name - Fab Academy documentation
+# Flavio Grimaldi - Fab Academy documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
