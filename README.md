@@ -1,4 +1,4 @@
-# Flavio Grimaldi - Fab Academy documentation
+# Flavio Grimaldi - MDEF documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
